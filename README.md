@@ -1,18 +1,16 @@
-<h1 align="center">Hey 👋, I'm Taimoor Shahzad</h1>
-<h3 align="center">A Software Engineer graduate, with AI/ Data Scientist Expertise.</h3>
+### Taimoor Shahzad
 
-[![Linkedin Badge](https://img.shields.io/badge/-Taimoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/taimoorshahzad/)](https://www.linkedin.com/in/taimoorshahzad/)
-[![Gmail Badge](https://img.shields.io/badge/-Taimoor-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taimoormalik178@gmail.com)](mailto:taimoormalik178@gmail.com)
+I'm a Software Engineer specializing in AI and Data Science, passionate about crafting intelligent websites and applications. 
+As a student, I thrive on creativity and curiosity, constantly seeking to expand my knowledge and explore the mysteries of the Universe.
 
-- 🔭 I’m currently working on **MERN Stack, Machine Learning/AI Projects.**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%231A1A1A?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/taimoorshahzad/)](https://www.linkedin.com/in/taimoorshahzad/)
+[![Gmail Badge](https://img.shields.io/badge/-Taimoor-%231A1A1A?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:taimoormalik178@gmail.com)](mailto:taimoormalik178@gmail.com)
 
-- 🌱 I’m currently learning **AI, LLM.**
+🔭 I’m passionate about exploring the integration of **web technologies with AI** and always impatient to collaborate on innovative projects in these domains.
 
-- 👯 I’m looking to collaborate on **Web, AI Projects.**
+💬 Ask me about **Web development, AI**, or their seamless integration—and yes.
 
-- 💬 Ask me about **Web, AI, Web AI Integration.**
-
-- ⚡ Fun fact **I’m a night owl who thrives in the quiet hours of the night!**
+⚡ Fun fact **I’m a night owl who thrives in the quiet hours of the night!**
 
 ## 🛠  Technologies and tools
 
