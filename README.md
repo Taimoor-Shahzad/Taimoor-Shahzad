@@ -2,6 +2,7 @@
 
 I'm a Software Engineer specializing in AI and Data Science, passionate about crafting intelligent websites and applications.
 As a student, I thrive on creativity and curiosity, constantly seeking to expand my knowledge and to uncover the mysteries of the universe's future.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%231A1A1A?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/taimoorshahzad/)](https://www.linkedin.com/in/taimoorshahzad/)
 [![Gmail Badge](https://img.shields.io/badge/-Taimoor-%231A1A1A?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:taimoormalik178@gmail.com)](mailto:taimoormalik178@gmail.com)
 
