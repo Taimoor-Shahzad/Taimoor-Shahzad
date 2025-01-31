@@ -43,3 +43,6 @@ As a student, I thrive on creativity and curiosity, constantly seeking to expand
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+# Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Taimoor-Shahzad&theme=dark&hide_border=false)<br/>
